@@ -17,8 +17,5 @@ manifest:
     - name: zmk-rgbled-widget # <-- and this for the LED
       remote: caksoylar
       revision: main
-    - name: zmk-dongle-dislay
-      remote: englmaxi
-      revision: main
   self:
     path: config
