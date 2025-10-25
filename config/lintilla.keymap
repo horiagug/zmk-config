@@ -134,8 +134,8 @@
 //         ┃   Z   ┃   X   ┃   C   ┃   V   ┃   B   ┃                          ┃   N   ┃   M   ┃  , ;  ┃  . :  ┃  / \  ┃
              &kp Z   &kp X   &kp C   &kp V   &kp B                              &kp N   &kp M   &mcs    &mdc    &msb
 //         ┗━━━━━━━┻━━━━━━━┻━━━━━━━┻━━━┳━━━┻━━━┳━━━┻━━━┳━━━━━━━┓  ┏━━━━━━━┳━━━┻━━━┳━━━┻━━━┳━━━┻━━━━━━━┻━━━━━━━┻━━━━━━━┛
-//                                     ┃ ( num ┃ SHIFT ┃ { cmd ┃  ┃ } cmd ┃ SPACE ┃ ) alt ┃
-                             &lt 1 LPAR &lsscw 2 0 &mt LCMD LBRC  &mt RCMD RBRC &lt 4 SPC &mt LALT RPAR
+//                                     ┃ Cmd   ┃Sh CpW ┃ Alt   ┃  ┃RETURN ┃ BKSPC ┃sy SPC ┃
+                             &kp LGUI &lsscw 2 0 &kp LALT &kp RETURN &kp BSPC &lt 4 SPC
 //                                     ┗━━━━━━━┫  nav  ┣━━━━━━━┛  ┗━━━━━━━┫  sym  ┣━━━━━━━┛
 //                                             ┗━━━━━━━┛                  ┗━━━━━━━┛
             >;
