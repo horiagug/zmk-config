@@ -229,7 +229,7 @@
              &kp TILDE                                                                                              &none
 // ┏━━━━━━━╋━━━━━━━╋━━━━━━━┳━━━━━━━┳━━━━━━━┳━━━━━━━┓                          ┏━━━━━━━┳━━━━━━━┳━━━━━━━┳━━━━━━━╋━━━━━━━╋━━━━━━━┓
 // ┃   `   ┃   *   ┃   #   ┃   +   ┃   %   ┃   _   ┃                          ┃       ┃ CtrlU ┃       ┃       ┃       ┃       ┃
-&kp GRAVE &kp EXCL &kp AT &kp HASH &kp PRCNT &kp QMARK                        &kp LEFT_PARANTHESIS &kp RIGHT_PARANTHESIS &none   &none   &none   &none
+&kp GRAVE &kp EXCL &kp AT &kp HASH &kp PRCNT &kp QMARK                        &kp LPAR &kp RPAR &none   &none   &none   &none
 // ┣━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┫                          ┣━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┫
 // ┃   ~   ┃   ^   ┃   @   ┃   !   ┃   =   ┃   $   ┃                          ┃ R Alt ┃  Cmd  ┃  Opt  ┃ Ctrl  ┃       ┃ Globe ┃
 &kp TILDE &kp CARET &kp EQUAL &kp UNDER &kp DOLLAR &kp STAR                      &kp LEFT_BRACE &kp RIGHT_BRACE &kp LALT &kp LCTL &none &kp GLOBE
