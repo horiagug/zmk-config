@@ -235,7 +235,7 @@
 &kp TILDE &kp CARET &kp EQUAL &kp UNDER &kp DOLLAR &kp STAR                      &kp LEFT_BRACE &kp RIGHT_BRACE &kp LALT &kp LCTL &none &kp GLOBE
 // ┗━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┫                          ┣━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┛
 //         ┃   <   ┃   >   ┃   [   ┃   ]   ┃   ?   ┃                          ┃       ┃       ┃       ┃       ┃       ┃
-             &kp LT &kp GT &kp MINUS &kp RBKT &kp SLASH                          &kp LEFT_BRACKET   &RIGHT_BRACKET   &none   &none   &none
+             &kp LT &kp GT &kp MINUS &kp RBKT &kp SLASH                          &kp LBKT   &RBKT   &none   &none   &none
 //         ┗━━━━━━━┻━━━━━━━┻━━━━━━━┻━━━┳━━━┻━━━┳━━━┻━━━┳━━━━━━━┓  ┏━━━━━━━┳━━━┻━━━┳━━━┻━━━┳━━━┻━━━━━━━┻━━━━━━━┻━━━━━━━┛
 //                                     ┃   |   ┃   &   ┃   -   ┃  ┃       ┃ ##### ┃       ┃
                                       &kp PIPE &kp AMPS &kp PLUS   &none   &trans  &none
