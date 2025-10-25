@@ -135,7 +135,7 @@
              &kp Z   &kp X   &kp C   &kp V   &kp B                              &kp N   &kp M   &mcs    &mdc    &msb
 //         ┗━━━━━━━┻━━━━━━━┻━━━━━━━┻━━━┳━━━┻━━━┳━━━┻━━━┳━━━━━━━┓  ┏━━━━━━━┳━━━┻━━━┳━━━┻━━━┳━━━┻━━━━━━━┻━━━━━━━┻━━━━━━━┛
 //                                     ┃  Cmd  ┃Sh CpW ┃  Alt  ┃  ┃RETURN ┃ BKSPC ┃sy SPC ┃
-                             &kp LGUI    &lsscw &kp LALT      &kp RETURN  &kp BSPC &lt 4 SPC
+                             &kp LGUI &lsscw &kp LALT &kp RETURN &kp BSPC &lt 4 SPC
 //                                     ┗━━━━━━━┫  nav  ┣━━━━━━━┛  ┗━━━━━━━┫  sym  ┣━━━━━━━┛
 //                                             ┗━━━━━━━┛                  ┗━━━━━━━┛
             >;
