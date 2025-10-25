@@ -232,7 +232,7 @@
 &kp GRAVE &kp EXCL &kp AT &kp HASH &kp PRCNT &kp QMARK                        &kp LPAR &kp RPAR &none   &none   &none   &none
 // ┣━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┫                          ┣━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┫
 // ┃   ~   ┃   ^   ┃   @   ┃   !   ┃   =   ┃   $   ┃                          ┃ R Alt ┃  Cmd  ┃  Opt  ┃ Ctrl  ┃       ┃ Globe ┃
-&kp TILDE &kp CARET &kp EQUAL &kp UNDER &kp DOLLAR &kp STAR                      &kp LEFT_BRACE &kp RIGHT_BRACE &kp LALT &kp LCTL &none &kp GLOBE
+&kp TILDE &kp CARET &kp EQUAL &kp UNDER &kp DOLLAR &kp STAR                      &kp LBRC &kp RBRC &kp LALT &kp LCTL &none &kp GLOBE
 // ┗━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┫                          ┣━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━╋━━━━━━━┛
 //         ┃   <   ┃   >   ┃   [   ┃   ]   ┃   ?   ┃                          ┃       ┃       ┃       ┃       ┃       ┃
              &kp LT &kp GT &kp MINUS &kp RBKT &kp SLASH                          &kp LBKT   &RBKT   &none   &none   &none
